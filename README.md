@@ -61,4 +61,6 @@ Includes `Trainer` class for training loop with:
 - `final val accuracy:
   cross-entropy: 0.8627
   squared error: 0.8813`
+
+  
   Thank you! for considering my application, hope to work with your team.
