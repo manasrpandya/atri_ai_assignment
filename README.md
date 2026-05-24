@@ -56,4 +56,9 @@ Includes `Trainer` class for training loop with:
 - Tests 3 recommended configurations on MNIST
 - Shows generalization across datasets
 
+#### Final Results:
+- `test set accuracy: 0.8465`
+- `final val accuracy:
+  cross-entropy: 0.8627
+  squared error: 0.8813`
   Thank you! for considering my application, hope to work with your team.
